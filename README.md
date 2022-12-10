@@ -4,5 +4,5 @@
 - Favourite game: Minecraft java
 - My discord: Ompyl#6019
 
-RP: https://tinyurl.com/ompyls-mc-rp
+RP: https://tinyurl.com/ompyl-mc-rp
 Mods: https://tinyurl.com/meteor-mc-mods
