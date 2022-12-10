@@ -1,7 +1,6 @@
-- Hi, I’m @Ompyl
+- Hi, I’m Ompyl
 - I’m interested in Python, Java and all sorts of microcontrollers
-- My favourite desktop OS is linuxmint
-- Favourite game: Minecraft java
+- Favourite game: Minecraft java Edition
 - My discord: Ompyl#6019
 
 RP: https://tinyurl.com/ompyl-mc-rp
