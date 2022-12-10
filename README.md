@@ -5,4 +5,4 @@
 - My discord: Ompyl#6019
 
 RP: https://tinyurl.com/ompyls-mc-rp
-Mods: 
+Mods: https://tinyurl.com/meteor-mc-mods
