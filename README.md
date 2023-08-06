@@ -1,7 +1,6 @@
 - Hi, I’m Ompyl
 
-- I’m interested in Python
-- And I work with all sorts of microcontrollers
-- Favourite game: Minecraft java Edition
+- Minecraft is the best
+- Intrested in Microcontrollers
 - Favourite OS: Zorin 
-- My discord: Ompyl#6019
+- My discord: ompyl
